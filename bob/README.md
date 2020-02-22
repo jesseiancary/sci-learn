@@ -7,26 +7,26 @@ A program to communicate with a lackadaisical teenager named Bob.
 
 Bob is a lackadaisical teenager. In conversation, his responses are very limited.
 
-Bob answers 'Sure.' if you ask him a question.
-He answers 'Whoa, chill out!' if you yell at him.
-He says 'Fine. Be that way!' if you address him without actually saying anything.
+Bob answers 'Sure.' if you ask him a question.\
+He answers 'Whoa, chill out!' if you yell at him.\
+He says 'Fine. Be that way!' if you address him without actually saying anything.\
 He answers 'Whatever.' to anything else.
 
 ----------
 
 Create a module called  `bob`  with a function  `hey`.
 
-`hey`  Takes a single sentence as input, and returns a sentence as a response.
-A sentence is just a  `String`  of any length.
-A question is any sentence that ends with a question mark.
-A sentence is yelled if it is in all caps.
+`hey`  Takes a single sentence as input, and returns a sentence as a response.\
+A sentence is just a  `String`  of any length.\
+A question is any sentence that ends with a question mark.\
+A sentence is yelled if it is in all caps.\
 A sentence that says nothing is one made entirely of white space.
 
 ## Getting Started
 
 ### Prerequisites
 
-Before running this project, you will need **NodeJS** installed and running. Check the following link for instructions specific to your platform:
+Before running this project, you will need **NodeJS** installed and running. Check the following link for instructions specific to your platform:\
 [Installing Node.js via a package manager](https://nodejs.org/en/download/package-manager/)
 
 ### Installing

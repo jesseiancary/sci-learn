@@ -16,18 +16,18 @@ The rules are as follows:
 
 ----------
 
-Write a class  `PhoneNumber`  with a constructor  `PhoneNumber(string)`  that throws an exception on any invalid input.
-It has a method  `number()`  that returns a string representation of all 10 numerical digits. EG  `"4158675309"`
-It has a method  `areaCode()`  that returns a string of the first three digits EG  `"415"`
-It has a method  `exchangeCode()`  that returns a string of the next three digits EG  `"867"`
-It has a method  `lineNumber()`  that returns a string of the last four digits EG  `"5309"`
+Write a class  `PhoneNumber`  with a constructor  `PhoneNumber(string)`  that throws an exception on any invalid input.\
+It has a method  `number()`  that returns a string representation of all 10 numerical digits. EG  `"4158675309"`\
+It has a method  `areaCode()`  that returns a string of the first three digits EG  `"415"`\
+It has a method  `exchangeCode()`  that returns a string of the next three digits EG  `"867"`\
+It has a method  `lineNumber()`  that returns a string of the last four digits EG  `"5309"`\
 It has a method  `pretty()`  that returns the number formatted as  `"(XXX) XXX-XXXX"`  EG  `"(415) 867-5309"`
 
 ## Getting Started
 
 ### Prerequisites
 
-Before running this project, you will need **NodeJS** installed and running. Check the following link for instructions specific to your platform:
+Before running this project, you will need **NodeJS** installed and running. Check the following link for instructions specific to your platform:\
 [Installing Node.js via a package manager](https://nodejs.org/en/download/package-manager/)
 
 ### Installing

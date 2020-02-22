@@ -32,7 +32,7 @@ This function should return the date of the meetup for the given month/year as a
 
 ### Prerequisites
 
-Before running this project, you will need **NodeJS** installed and running. Check the following link for instructions specific to your platform:
+Before running this project, you will need **NodeJS** installed and running. Check the following link for instructions specific to your platform:\
 [Installing Node.js via a package manager](https://nodejs.org/en/download/package-manager/)
 
 ### Installing
